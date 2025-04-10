@@ -1,0 +1,8 @@
+name: SimpleAntiCheat
+main: com.judith.anticheat.AntiCheat
+version: 1.0
+api-version: 1.21
+commands:
+  anticheatreload:
+    description: Reload config
+    permission: anticheat.admin
